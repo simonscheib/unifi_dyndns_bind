@@ -45,7 +45,7 @@ apt install bind9 bind9-utils dnsutils
 
 ## Setup PHP backend
 **All paths are suited for an ISPCOnfig installation**
-*1. Copy update.php to `/var/www/example.com/web/nic`
+1. Copy update.php to `/var/www/example.com/web/nic`
 1. Copy config.php and functions.php to `/var/www/example.com/private`
 1. Adjust Variables in `config.php`
 1. Create `.htpasswd` 
